@@ -1,0 +1,8 @@
+name,seasons,growth_time,pierre_cost,joja_cost,sell_price
+Artichoke,fall,8,30,,160
+Cauliflower,spring,12,80,100,175
+Corn,summer|fall,14,150,187,50
+Kale,spring,6,70,87,110
+Melon,summer,12,80,100,250
+Parsnip,spring,5,20,25,35
+
