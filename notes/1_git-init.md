@@ -18,3 +18,5 @@ I will need to store the data somewhere. I want to avoid using binary files like
 
 To start, I think I'll store crop data in a csv file with a header row for readability. I'll create a class to represent one crop, and at startup I'll parse the csv into instances of the class for the rest of the program to use.
 
+Next: [hydrating crops](2_hydrating-crops.md)
+
